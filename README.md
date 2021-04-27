@@ -1,5 +1,4 @@
 # Hi there, I'm Beyza 👋
-<br/>
 
 ## I'm a Student, Developer and Cyber Security Researcher ! (Occasional Painter)
 
