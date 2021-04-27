@@ -50,7 +50,7 @@
 
 
 [website]: https://beyza-ta.medium.com/
-[linkedin]: www.linkedin.com/in/beyza-taşçı-b02335166
+[linkedin]: https://linkedin.com/in/beyza-taşçı-b02335166
 [vscode]: https://code.visualstudio.com/
 [html5]: https://www.w3schools.com/html/ 
 [css3]: https://www.w3schools.com/css/default.asp
