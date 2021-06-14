@@ -1,15 +1,11 @@
 # Hi there, I'm Beyza 👋
 
-## I'm a Student, Developer and Cyber Security Researcher ! (Occasional Painter)
+## I'm a Student, Developer and Cyber Security Researcher !
 
 - 🔭 I just launched my first blog: [Beys !][website]
 - 🌱 I’m currently learning Cyber Security Tools, Graylog, Honeypot, Snort, ML
 - 🥅 2021 Goals: I will learn the penetration test tools. 
 - ⚡ Fun fact: I love to solve sudoku, draw pictures and Quantum Key Distribution Technology
-
-### Spotify Playing 🎧
-
-- [Spotify](https://open.spotify.com/user/beyza_ta?si=vgNrafh2Tb2VF9LyiK2NsQ)
 
 ### Connect with me:
 
