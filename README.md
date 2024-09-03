@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Cyber Security Tools, Graylog, Honeypot, Snort, ML
 - 🥅 2021 Goals: I will learn the penetration test tools. 
 - ⚡ Fun fact: I love to solve sudoku, draw pictures and Quantum Key Distribution Technology
-- 
+  
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
