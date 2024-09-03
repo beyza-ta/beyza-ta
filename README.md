@@ -3,9 +3,9 @@
 ## I'm a Cyber Security Researcher !
 
 - 🔭 I just launched my first blog: [Beys !][website]
-- 🌱 I’m currently learning Cyber Security Tools, Graylog, Honeypot, Snort, ML
-- 🥅 2021 Goals: I will learn the penetration test tools. 
-- ⚡ Fun fact: I love to solve sudoku, draw pictures and Quantum Key Distribution Technology
+- 🌱 I’m currently learning Cyber Security Tools, Qradar, MS Defender
+- 🥅 2024 Goals: I will learn the ıncıdent response tools. 
+- ⚡ Fun fact: I love to solve sudoku, draw pictures
   
 ### Connect with me:
 
